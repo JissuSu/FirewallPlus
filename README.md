@@ -1,16 +1,27 @@
-<<<<<<< HEAD
-# Information
+![alt text][logo] 
+##Firewall Plus
 
-Copyright © 2014 Squario Labs
+###Introduction
+Firewall Plus is a front-end firewall solution for Android devices. Firewall Plus allows you to restrict which applications are permitted to access your data networks.
 
-To learn more, visit our website at http://SquarioLabs.com. You can also reach us anytime via e-mail at hello@SquarioLabs.com.
+###Further Reading
 
-Squario Labs is hiring - http://squariolabs.com/job/android-software-engineer/
-=======
-Firewall-Plus
-=============
+Please visit the [Wiki](https://github.com/SethCottle/FirewallPlus/wiki) section for Firewall Plus.
 
-Copyright © 2014 Squario Labs. 
+###Links
 
-To learn more, visit our website at http://SquarioLabs.com.  You can also reach us via e-mail at hello@SquarioLabs.com.
->>>>>>> 99ff49ce3321329bbb3e7840f9c883d9b47033be
+![alt text][browser][SquarioLabs.com](http://SquarioLabs.com)
+
+![alt text][browser][SethCottle.com](http://SethCottle.com)
+
+![alt text][twitter][@SethCottle](http://Twitter.com/SethCottle)
+
+
+
+[logo]: https://raw.githubusercontent.com/SethCottle/FirewallPlus/master/res/drawable-hdpi/ic_launcher.png "Firewall Plus"
+
+[twitter]: http://i.imgur.com/024N1EV.png "Twitter Link"
+
+[browser]: http://i.imgur.com/aqaoXeV.png "Browser Link"
+
+Copyright © 2014 Squario Labs, LLC
