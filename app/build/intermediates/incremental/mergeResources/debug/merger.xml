@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="21.0.0" >
+        <source path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/res" />
+    </dataSet>
+    <dataSet config="21.0.0" >
+        <source path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res" >
+            <file
+                name="action"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/action.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="apply"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/apply.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="card_background"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/card_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="eth_wifi"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/eth_wifi.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_action_overflow"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/ic_action_overflow.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="show"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/show.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="widget_bg"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/widget_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="widget_bg_focus"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/widget_bg_focus.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="widget_bg_pressed"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/widget_bg_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="widget_off"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/widget_off.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="widget_on"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable/widget_on.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_action_overflow"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-hdpi/ic_action_overflow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="widget_off"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-hdpi/widget_off.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="widget_on"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-hdpi/widget_on.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_overflow"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-ldpi/ic_action_overflow.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="widget_off"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-ldpi/widget_off.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="widget_on"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-ldpi/widget_on.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_overflow"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-mdpi/ic_action_overflow.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="eth_3g"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-xhdpi/eth_3g.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="eth_wifi"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-xhdpi/eth_wifi.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_overflow"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-xhdpi/ic_action_overflow.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="customscript"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/layout/customscript.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="listitem"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/layout/listitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="onoff_widget"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/layout/onoff_widget.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pass_dialog"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/layout/pass_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="busybox_g1"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/raw/busybox_g1"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="iptables_armv5"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/raw/iptables_armv5"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="enterpass" >Enter the password:
+                </string>
+                <string name="set_custom_script" >Set custom script
+                </string>
+                <string name="mode_whitelist" >White list (allow selected)
+                </string>
+                <string name="log_disabled" >Log disabled
+                </string>
+                <string name="custom_script_error" >Error saving custom script
+                </string>
+                <string name="deleting_rules" >Deleting iptables rules.
+                </string>
+                <string name="custom_script2_info" >    	\n
+<b>
+Custom shutdown script
+                    </b>    	\nYou can also define a custom script to be executed when the firewall is 
+<b>
+disabled
+                    </b>:
+                </string>
+                <string name="toast_disabled" >Firewall Plus: Firewall disabled!
+                </string>
+                <string name="passremoved" >Password lock removed
+                </string>
+                <string name="log_was_disabled" >Log has been disabled
+                </string>
+                <string name="discard" >Discard
+                </string>
+                <string name="pass_titleset" >Set password lock
+                </string>
+                <string name="passdefined" >Password lock defined
+                </string>
+                <string name="log_was_enabled" >Log has been enabled
+                </string>
+                <string name="reading_apps" >Reading installed applications
+                </string>
+                <string name="working" >Working...
+                </string>
+                <string name="mode_blacklist" >Black list (block selected)
+                </string>
+                <string name="please_wait" >Please wait
+                </string>
+                <string name="custom_script_defined" >Custom script defined
+                </string>
+                <string name="passerror" >Error changing password lock
+                </string>
+                <string name="close" >Close
+                </string>
+                <string name="pass_titleget" >Password required
+                </string>
+                <string name="setpwd" >Set password
+                </string>
+                <string name="fw_enabled" >Firewall enabled
+                </string>
+                <string name="rules_saved" >Rules saved with success
+                </string>
+                <string name="unsaved_changes_message" >You have unsaved changes.\nDo you want to apply or discard them?
+                </string>
+                <string name="unsaved_changes" >Unsaved changes
+                </string>
+                <string name="clear_log" >Clear log
+                </string>
+                <string name="saverules" >Save rules
+                </string>
+                <string name="show_log" >Show log
+                </string>
+                <string name="custom_script_removed" >Custom script removed
+                </string>
+                <string name="toast_enabled" >Firewall Plus: Firewall enabled!
+                </string>
+                <string name="toast_error_disabling" >Firewall Plus: Error disabling firewall!
+                </string>
+                <string name="custom_script_info" ><b>
+Enter your custom script bellow.
+                    </b>		\n
+<i>
+(Leave it blank to remove)
+                    </i></string>
+                <string name="exit" >Exit
+                </string>
+                <string name="rules_deleted" >Rules deleted with success
+                </string>
+                <string name="fw_disabled" >Firewall disabled
+                </string>
+                <string name="applyrules" >Apply rules
+                </string>
+                <string name="mode_header" >Mode: %s
+                </string>
+                <string name="applying_rules" >Applying iptables rules.
+                </string>
+                <string name="title_enabled" >Firewall Plus
+                </string>
+                <string name="toast_bin_installed" >Firewall Plus: Binary files installed!
+                </string>
+                <string name="rules_applied" >Rules applied with success
+                </string>
+                <string name="toast_error_enabling" >Firewall Plus: Error enabling firewall!
+                </string>
+                <string name="log_enabled" >Log enabled
+                </string>
+                <string name="apply" >Apply
+                </string>
+                <string name="log_cleared" >Log cleared
+                </string>
+                <string name="showrules" >Show rules
+                </string>
+                <string name="title_disabled" >Firewall Plus (disabled)
+                </string>
+                <string name="app_name" >Firewall Plus
+                </string>
+                <string name="saving_rules" >Saving iptables rules.
+                </string>
+                <string name="enternewpass" >Enter the new password (leave blank to remove):
+                </string>
+                <string name="purgerules" >Purge rules
+                </string>
+            </file>
+            <file
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="OverFlow"
+                    parent="@android:style/Widget.Holo.ActionButton.Overflow" >
+                    <item name="android:src">
+@drawable/ic_action_overflow
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:actionBarStyle">
+@style/MyActionBarTheme
+                    </item>
+                    <item name="android:actionOverflowButtonStyle">
+@style/OverFlow
+                    </item>
+                </style>
+
+                <style
+                    name="MyTextAppearance"
+                    parent="android:TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:icon">
+@drawable/action
+                    </item>
+                    <item name="android:actionOverflowButtonStyle">
+@style/OverFlow
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                </style>
+
+                <style
+                    name="MyActionBarTheme"
+                    parent="@android:style/Widget.Holo.Light.ActionBar" >
+                    <item name="android:background">
+#d55935
+                    </item>
+                    <item name="android:textColor">
+#fff
+                    </item>
+                    <item name="android:actionOverflowButtonStyle">
+@style/OverFlow
+                    </item>
+                    <item name="android:icon">
+@drawable/action
+                    </item>
+                    <item name="android:titleTextStyle">
+@style/MyTextAppearance
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/values-es/strings.xml"
+                qualifiers="es" >
+                <string name="unsaved_changes" >Cambios sin guardar
+                </string>
+                <string name="log_disabled" >Log Apagado
+                </string>
+                <string name="fw_enabled" >Firewall Encendido
+                </string>
+                <string name="log_enabled" >Log Encendido
+                </string>
+                <string name="set_custom_script" >Establecer script personalizado
+                </string>
+                <string name="custom_script_error" >Error guardando el script personalizado
+                </string>
+                <string name="applyrules" >Aplicar Reglas
+                </string>
+                <string name="passerror" >Error al cambiar la Contraseña de Bloqueo
+                </string>
+                <string name="close" >Cerrar
+                </string>
+                <string name="pass_titleset" >Establecer Contraseña de Bloqueo
+                </string>
+                <string name="passremoved" >Contraseña de Bloqueo Eliminada
+                </string>
+                <string name="rules_saved" >Reglas guardadas exitosamente
+                </string>
+                <string name="applying_rules" >Aplicando reglas de Cortafuegos.
+                </string>
+                <string name="toast_bin_installed" >Firewall Plus: Archivos Binarios Instalados!
+                </string>
+                <string name="title_disabled" >Firewall Plus (apagado)
+                </string>
+                <string name="show_log" >Ver Log
+                </string>
+                <string name="apply" >Aplicar
+                </string>
+                <string name="deleting_rules" >Borrando reglas de Cortafuegos.
+                </string>
+                <string name="custom_script_defined" >Script personalizado establecido
+                </string>
+                <string name="app_name" >Firewall Plus
+                </string>
+                <string name="toast_error_enabling" >Firewall Plus: Error Encendiendo el Cortafuegos!
+                </string>
+                <string name="saverules" >Guardar Reglas
+                </string>
+                <string name="custom_script2_info" >    	\n
+<b>
+Script de Apagado personalizado
+                    </b>    	\nTambién puedes definir un script personalizado para ser ejecutado cuando el cortafuegos es 
+<b>
+apagado
+                    </b>:
+                </string>
+                <string name="log_cleared" >Log Limpiado
+                </string>
+                <string name="mode_whitelist" >Lista Blanca (permitir seleccionados)
+                </string>
+                <string name="toast_disabled" >Firewall Plus: Cortafuegos Apagado!
+                </string>
+                <string name="discard" >Descartar
+                </string>
+                <string name="passdefined" >Contraseña de Bloqueo Guardada
+                </string>
+                <string name="saving_rules" >Guardando reglas de Cortafuegos.
+                </string>
+                <string name="setpwd" >Establecer Contraseña
+                </string>
+                <string name="log_was_disabled" >El Log ha sido Apagado
+                </string>
+                <string name="title_enabled" >Firewall Plus
+                </string>
+                <string name="toast_error_disabling" >Firewall Plus: Error Apagando el Cortafuegos!
+                </string>
+                <string name="pass_titleget" >Se requiere Contraseña
+                </string>
+                <string name="mode_header" >Modalidad: %s
+                </string>
+                <string name="exit" >Salir
+                </string>
+                <string name="custom_script_info" ><b>
+Ingresa el script personalizado abajo.
+                    </b>		\n
+<i>
+(Déjalo en blanco para eliminarlo)
+                    </i></string>
+                <string name="fw_disabled" >Firewall Apagado
+                </string>
+                <string name="mode_blacklist" >Lista Negra (bloquear seleccionados)
+                </string>
+                <string name="enternewpass" >Ingresa la nueva contraseña (déjalo en blanco para eliminarla):
+                </string>
+                <string name="unsaved_changes_message" >No has guardado los cambios.\n¿Quieres aplicarlos o descartarlos?
+                </string>
+                <string name="enterpass" >Ingresa la contraseña:
+                </string>
+                <string name="showrules" >Ver Reglas
+                </string>
+                <string name="log_was_enabled" >El Log ha sido Encendido
+                </string>
+                <string name="toast_enabled" >Firewall Plus: Cortafuegos Encendido!
+                </string>
+                <string name="rules_applied" >Reglas aplicadas exitosamente
+                </string>
+                <string name="purgerules" >Limpiar Reglas
+                </string>
+                <string name="working" >Trabajando...
+                </string>
+                <string name="clear_log" >Limpiar log
+                </string>
+                <string name="reading_apps" >Buscando aplicaciones instaladas
+                </string>
+                <string name="custom_script_removed" >Script personalizado eliminado
+                </string>
+                <string name="rules_deleted" >Reglas eliminadas exitosamente
+                </string>
+                <string name="please_wait" >Por favor espere
+                </string>
+            </file>
+            <file
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/values-v19/strings.xml"
+                qualifiers="v19" >
+                <string name="fw_disabled" >Firewall disabled
+                </string>
+                <string name="applyrules" >Apply rules
+                </string>
+                <string name="log_was_disabled" >Log has been disabled
+                </string>
+                <string name="custom_script_defined" >Custom script defined
+                </string>
+                <string name="mode_whitelist" >White list (allow selected)
+                </string>
+                <string name="saverules" >Save rules
+                </string>
+                <string name="saving_rules" >Saving iptables rules.
+                </string>
+                <string name="enterpass" >Enter the password:
+                </string>
+                <string name="toast_bin_installed" >Firewall Plus: Binary files installed!
+                </string>
+                <string name="rules_saved" >Rules saved with success
+                </string>
+                <string name="passremoved" >Password lock removed
+                </string>
+                <string name="toast_disabled" >Firewall Plus: Firewall disabled!
+                </string>
+                <string name="custom_script_info" ><b>
+Enter your custom script bellow.
+                    </b>		\n
+<i>
+(Leave it blank to remove)
+                    </i></string>
+                <string name="rules_applied" >Rules applied with success
+                </string>
+                <string name="purgerules" >Purge rules
+                </string>
+                <string name="custom_script_removed" >Custom script removed
+                </string>
+                <string name="close" >Close
+                </string>
+                <string name="enternewpass" >Enter the new password (leave blank to remove):
+                </string>
+                <string name="toast_error_enabling" >Firewall Plus: Error enabling firewall!
+                </string>
+                <string name="please_wait" >Please wait
+                </string>
+                <string name="mode_blacklist" >Black list (block selected)
+                </string>
+                <string name="log_cleared" >Log cleared
+                </string>
+                <string name="working" >Working...
+                </string>
+                <string name="fw_enabled" >Firewall enabled
+                </string>
+                <string name="discard" >Discard
+                </string>
+                <string name="custom_script2_info" >    	\n
+<b>
+Custom shutdown script
+                    </b>    	\nYou can also define a custom script to be executed when the firewall is 
+<b>
+disabled
+                    </b>:
+                </string>
+                <string name="passdefined" >Password lock defined
+                </string>
+                <string name="mode_header" >Mode: %s
+                </string>
+                <string name="reading_apps" >Reading installed applications
+                </string>
+                <string name="log_was_enabled" >Log has been enabled
+                </string>
+                <string name="unsaved_changes_message" >You have unsaved changes.\nDo you want to apply or discard them?
+                </string>
+                <string name="pass_titleset" >Set password lock
+                </string>
+                <string name="rules_deleted" >Rules deleted with success
+                </string>
+                <string name="pass_titleget" >Password required
+                </string>
+                <string name="app_name" >Firewall Plus
+                </string>
+                <string name="toast_enabled" >Firewall Plus: Firewall enabled!
+                </string>
+                <string name="toast_error_disabling" >Firewall Plus: Error disabling firewall!
+                </string>
+                <string name="showrules" >Show rules
+                </string>
+                <string name="passerror" >Error changing password lock
+                </string>
+                <string name="clear_log" >Clear log
+                </string>
+                <string name="custom_script_error" >Error saving custom script
+                </string>
+                <string name="log_enabled" >Log enabled
+                </string>
+                <string name="unsaved_changes" >Unsaved changes
+                </string>
+                <string name="applying_rules" >Applying iptables rules.
+                </string>
+                <string name="title_disabled" >Firewall Plus (disabled)
+                </string>
+                <string name="exit" >Exit
+                </string>
+                <string name="set_custom_script" >Set custom script
+                </string>
+                <string name="log_disabled" >Log disabled
+                </string>
+                <string name="setpwd" >Set password
+                </string>
+                <string name="deleting_rules" >Deleting iptables rules.
+                </string>
+                <string name="title_enabled" >Firewall Plus
+                </string>
+                <string name="show_log" >Show log
+                </string>
+                <string name="apply" >Apply
+                </string>
+            </file>
+            <file
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/values-v19/styles.xml"
+                qualifiers="v19" >
+
+                <style
+                    name="MyTextAppearance"
+                    parent="android:TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:icon">
+@drawable/action
+                    </item>
+                    <item name="android:actionOverflowButtonStyle">
+@style/OverFlow
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                </style>
+
+                <style
+                    name="MyActionBarTheme"
+                    parent="@android:style/Widget.Holo.Light.ActionBar" >
+                    <item name="android:background">
+#d55935
+                    </item>
+                    <item name="android:textColor">
+#fff
+                    </item>
+                    <item name="android:icon">
+@drawable/action
+                    </item>
+                    <item name="android:actionOverflowButtonStyle">
+@style/OverFlow
+                    </item>
+                    <item name="android:titleTextStyle">
+@style/MyTextAppearance
+                    </item>
+                </style>
+
+                <style
+                    name="OverFlow"
+                    parent="@android:style/Widget.Holo.ActionButton.Overflow" >
+                    <item name="android:src">
+@drawable/ic_action_overflow
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:actionBarStyle">
+@style/MyActionBarTheme
+                    </item>
+                    <item name="android:fitsSystemWindows">
+true
+                    </item>
+                    <item name="android:actionOverflowButtonStyle">
+@style/OverFlow
+                    </item>
+                    <item name="android:windowTranslucentStatus">
+false
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/values-v21/styles.xml"
+                qualifiers="v21" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Material.Light.DarkActionBar" >
+
+                    <!-- Main theme colors -->
+                    <!-- your app's branding color (for the app bar) -->
+                    <item name="android:colorPrimary">
+#d55935
+                    </item>
+                    <!-- darker variant of colorPrimary (for status bar, contextual app bars) -->
+                    <item name="android:colorPrimaryDark">
+#cc4831
+                    </item>
+                    <!-- theme UI controls like checkboxes and text fields -->
+                    <item name="android:colorAccent">
+#31ccbc
+                    </item>
+                </style>
+            </file>
+            <file
+                name="onoff_widget"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/xml/onoff_widget.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="ic_launcher"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+                qualifiers="xxxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+        </source>
+        <source path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/build/generated/res/rs/debug" />
+        <source path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/debug/res" />
+    </dataSet>
+
+</merger>

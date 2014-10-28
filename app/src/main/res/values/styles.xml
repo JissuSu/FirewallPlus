@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- // Copyright © 2014 Squario Labs -->
+
+<resources>
+
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBarTheme</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+    </style>
+
+    <style name="MyActionBarTheme" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#d55935</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+        <item name="android:icon">@drawable/action</item>
+    <item name="android:titleTextStyle">@style/MyTextAppearance</item>
+</style>
+
+    <style name="OverFlow" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+    <item name="android:src">@drawable/ic_action_overflow</item>
+</style>
+    
+<style name="MyTextAppearance" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+    <item name="android:icon">@drawable/action</item>
+    <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+    <item name="android:textColor">#ffffff</item>
+</style>
+</resources>

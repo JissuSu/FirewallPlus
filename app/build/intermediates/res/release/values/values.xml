@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Firewall Plus</string>
+    <string name="apply">Apply</string>
+    <string name="applying_rules">Applying iptables rules.</string>
+    <string name="applyrules">Apply rules</string>
+    <string name="clear_log">Clear log</string>
+    <string name="close">Close</string>
+    <string name="custom_script2_info">    	\n<b>Custom shutdown script</b>     	\nYou can also define a custom script to be executed when the firewall is <b>disabled</b>:</string>
+    <string name="custom_script_defined">Custom script defined</string>
+    <string name="custom_script_error">Error saving custom script</string>
+    <string name="custom_script_info"><b>Enter your custom script bellow.</b> 		\n<i>(Leave it blank to remove)</i></string>
+    <string name="custom_script_removed">Custom script removed</string>
+    <string name="deleting_rules">Deleting iptables rules.</string>
+    <string name="discard">Discard</string>
+    <string name="enternewpass">Enter the new password (leave blank to remove):</string>
+    <string name="enterpass">Enter the password:</string>
+    <string name="exit">Exit</string>
+    <string name="fw_disabled">Firewall disabled</string>
+    <string name="fw_enabled">Firewall enabled</string>
+    <string name="log_cleared">Log cleared</string>
+    <string name="log_disabled">Log disabled</string>
+    <string name="log_enabled">Log enabled</string>
+    <string name="log_was_disabled">Log has been disabled</string>
+    <string name="log_was_enabled">Log has been enabled</string>
+    <string name="mode_blacklist">Black list (block selected)</string>
+    <string name="mode_header">Mode: %s</string>
+    <string name="mode_whitelist">White list (allow selected)</string>
+    <string name="pass_titleget">Password required</string>
+    <string name="pass_titleset">Set password lock</string>
+    <string name="passdefined">Password lock defined</string>
+    <string name="passerror">Error changing password lock</string>
+    <string name="passremoved">Password lock removed</string>
+    <string name="please_wait">Please wait</string>
+    <string name="purgerules">Purge rules</string>
+    <string name="reading_apps">Reading installed applications</string>
+    <string name="rules_applied">Rules applied with success</string>
+    <string name="rules_deleted">Rules deleted with success</string>
+    <string name="rules_saved">Rules saved with success</string>
+    <string name="saverules">Save rules</string>
+    <string name="saving_rules">Saving iptables rules.</string>
+    <string name="set_custom_script">Set custom script</string>
+    <string name="setpwd">Set password</string>
+    <string name="show_log">Show log</string>
+    <string name="showrules">Show rules</string>
+    <string name="title_disabled">Firewall Plus (disabled)</string>
+    <string name="title_enabled">Firewall Plus</string>
+    <string name="toast_bin_installed">Firewall Plus: Binary files installed!</string>
+    <string name="toast_disabled">Firewall Plus: Firewall disabled!</string>
+    <string name="toast_enabled">Firewall Plus: Firewall enabled!</string>
+    <string name="toast_error_disabling">Firewall Plus: Error disabling firewall!</string>
+    <string name="toast_error_enabling">Firewall Plus: Error enabling firewall!</string>
+    <string name="unsaved_changes">Unsaved changes</string>
+    <string name="unsaved_changes_message">You have unsaved changes.\nDo you want to apply or discard them?</string>
+    <string name="working">Working...</string>
+    <!-- From: file:/Users/Seth/AndroidStudioProjects/FirewallPlus/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBarTheme</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+    </style>
+
+    <style name="MyActionBarTheme" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#d55935</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+        <item name="android:icon">@drawable/action</item>
+        <item name="android:titleTextStyle">@style/MyTextAppearance</item>
+    </style>
+
+    <style name="MyTextAppearance" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:icon">@drawable/action</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="OverFlow" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_overflow</item>
+    </style>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- // Copyright © 2014 Squario Labs -->
+
+<resources>
+    <string name="app_name">Firewall Plus</string>
+    <string name="title_enabled">Firewall Plus</string>
+    <string name="title_disabled">Firewall Plus (apagado)</string>
+    <string name="showrules">Ver Reglas</string>
+    <string name="applyrules">Aplicar Reglas</string>
+    <string name="saverules">Guardar Reglas</string>
+    <string name="purgerules">Limpiar Reglas</string>
+    <string name="setpwd">Establecer Contraseña</string>
+    <string name="close">Cerrar</string>
+    <string name="fw_enabled">Firewall Encendido</string>
+    <string name="fw_disabled">Firewall Apagado</string>
+    <string name="log_enabled">Log Encendido</string>
+    <string name="log_disabled">Log Apagado</string>
+    <string name="log_was_enabled">El Log ha sido Encendido</string>
+    <string name="log_was_disabled">El Log ha sido Apagado</string>
+    <string name="log_cleared">Log Limpiado</string>
+    <string name="show_log">Ver Log</string>
+    <string name="clear_log">Limpiar log</string>
+    <string name="exit">Salir</string>
+    <string name="applying_rules">Aplicando reglas de Cortafuegos.</string>
+    <string name="saving_rules">Guardando reglas de Cortafuegos.</string>
+    <string name="deleting_rules">Borrando reglas de Cortafuegos.</string>
+    <string name="rules_applied">Reglas aplicadas exitosamente</string>
+    <string name="rules_saved">Reglas guardadas exitosamente</string>
+    <string name="rules_deleted">Reglas eliminadas exitosamente</string>
+    <string name="pass_titleset">Establecer Contraseña de Bloqueo</string>
+    <string name="pass_titleget">Se requiere Contraseña</string>
+    <string name="enterpass">Ingresa la contraseña:</string>
+    <string name="enternewpass">Ingresa la nueva contraseña (déjalo en blanco para eliminarla):</string>
+    <string name="passdefined">Contraseña de Bloqueo Guardada</string>
+    <string name="passremoved">Contraseña de Bloqueo Eliminada</string>
+    <string name="passerror">Error al cambiar la Contraseña de Bloqueo</string>
+    <string name="working">Trabajando...</string>
+    <string name="reading_apps">Buscando aplicaciones instaladas</string>
+    <string name="please_wait">Por favor espere</string>
+    <string name="mode_header">Modalidad: %s</string>
+    <string name="mode_whitelist">Lista Blanca (permitir seleccionados)</string>
+    <string name="mode_blacklist">Lista Negra (bloquear seleccionados)</string>
+    <string name="toast_bin_installed">Firewall Plus: Archivos Binarios Instalados!</string>
+    <string name="toast_enabled">Firewall Plus: Cortafuegos Encendido!</string>
+    <string name="toast_error_enabling">Firewall Plus: Error Encendiendo el Cortafuegos!</string>
+    <string name="toast_disabled">Firewall Plus: Cortafuegos Apagado!</string>
+    <string name="toast_error_disabling">Firewall Plus: Error Apagando el Cortafuegos!</string>
+    <string name="set_custom_script">Establecer script personalizado</string>
+    <string name="custom_script_defined">Script personalizado establecido</string>
+    <string name="custom_script_removed">Script personalizado eliminado</string>
+    <string name="custom_script_error">Error guardando el script personalizado</string>
+    <string name="custom_script_info"><b>Ingresa el script personalizado abajo.</b>
+		\n<i>(Déjalo en blanco para eliminarlo)</i>
+	</string>
+    <string name="custom_script2_info">
+    	\n<b>Script de Apagado personalizado</b>
+    	\nTambién puedes definir un script personalizado para ser ejecutado cuando el cortafuegos es <b>apagado</b>:</string>
+    <string name="unsaved_changes">Cambios sin guardar</string>
+    <string name="unsaved_changes_message">No has guardado los cambios.\n¿Quieres aplicarlos o descartarlos?</string>
+    <string name="apply">Aplicar</string>
+    <string name="discard">Descartar</string>
+</resources>
